@@ -1,2 +1,2 @@
 # starbucks
-https://eclectic-croissant-9b8d29.netlify.app/
+umilove98-starbucks-clone.netlify.app
